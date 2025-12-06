@@ -3,8 +3,11 @@ Guía práctica5  IA en e-Commerce: Chatbots y Sistemas Recomendadores
 
 ### Integrantes:
 -[SACCACO MENDOZA , Carlos Angel]
+
 -[PULIDO PALOMINO, Jose Daniel]
+
 -[TAIPE JERI, Ronald Jhonatan]
+
 -[VIDALON HINOSTROZA, Luigi Brian]
 
 
