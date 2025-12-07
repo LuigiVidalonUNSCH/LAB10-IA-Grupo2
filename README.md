@@ -19,7 +19,7 @@ Guía práctica5  IA en e-Commerce: Chatbots y Sistemas Recomendadores
 3. Video explicativo
 
 ### Enlace del video:
-[Pega aquí el enlace de YouTube] (modo oculto)
+https://drive.google.com/file/d/1xjtp216094VLnf8DSB3NzOWdFBoKD-bW/view?usp=sharing
 
 ### Tecnologías utilizadas:
 - Python
