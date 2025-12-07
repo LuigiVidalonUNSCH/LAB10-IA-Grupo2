@@ -17,6 +17,9 @@ Guía práctica5  IA en e-Commerce: Chatbots y Sistemas Recomendadores
 1. Chatbot funcional
 2. Sistema recomendador funcional
 3. Video explicativo
+   
+### Enlace del recomendador en DialogFlow
+https://dialogflow.cloud.google.com/#/agent/tiendavirtual-tthi/intents
 
 ### Enlace del video:
 https://drive.google.com/file/d/1xjtp216094VLnf8DSB3NzOWdFBoKD-bW/view?usp=sharing
