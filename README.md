@@ -21,7 +21,7 @@ Guía práctica5  IA en e-Commerce: Chatbots y Sistemas Recomendadores
 ### Enlace del recomendador en DialogFlow
 https://dialogflow.cloud.google.com/#/agent/tiendavirtual-tthi/intents
 
-### Enlace del video:
+### Enlace del video explicado del Chatbot con OpenIA, DialogFlow y el Recomendador:
 https://drive.google.com/file/d/1xjtp216094VLnf8DSB3NzOWdFBoKD-bW/view?usp=sharing
 
 ### Tecnologías utilizadas:
